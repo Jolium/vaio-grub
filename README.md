@@ -1,3 +1,3 @@
 # vaio-grub
 Dual Boot for Sony Vaio
-Windows 10 / MX Linux 19
+( Windows 10 / MX Linux 19 )
